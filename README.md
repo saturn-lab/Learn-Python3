@@ -10,8 +10,9 @@
 
 ## basic language syntax tutorial
 
+[Open command console ](open-cmd.md)
 
-jupyter notebook 
+input `jupyter notebook` 
 
 
 ## exercise
