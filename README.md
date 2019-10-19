@@ -1,6 +1,6 @@
 # Learn-Python3
 
-python3
+[python3-start](python3-start.md)
 
 ## tutorial
 
